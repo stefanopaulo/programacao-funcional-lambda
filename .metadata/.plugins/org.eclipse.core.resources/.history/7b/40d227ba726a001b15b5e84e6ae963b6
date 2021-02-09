@@ -1,0 +1,12 @@
+package services;
+
+import java.util.List;
+import java.util.function.Predicate;
+
+import entities.Employee;
+
+public class EmployeeService {
+	public double sumSalary(List<Employee> list, Predicate<Employee>) {
+		
+	}
+}
